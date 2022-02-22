@@ -1,0 +1,57 @@
+.ride-list{
+/* position: absolute; */
+width: 85%;
+height: 198px;
+color: white;
+background: #171717;
+border-radius: 10px;
+display: flex;
+margin-left: auto;
+margin-right: auto;
+/* justify-self: center; */
+margin-bottom: 20px;
+}
+.ride-list img{
+    margin: 10px;
+    width: 296px;
+height: 153px;
+}
+ .city_state{
+    margin-left: auto;
+    display: flex;
+    flex-direction: row;
+}
+.city_name_btn{
+    
+    background-color: #101010;
+    border-radius: 30px;
+    color: #fff;
+    border-style: none;
+    padding: 7px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin:10px;
+}
+.state_name_btn{
+    
+    background-color: #101010;
+    border-radius: 30px;
+    color: #fff;
+    border-style: none;
+    padding: 7px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 10px;
+}

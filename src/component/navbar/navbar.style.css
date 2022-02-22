@@ -1,0 +1,15 @@
+.navstyle {
+  background: #101010;
+  margin-bottom: 20px;
+}
+.navstyle a {
+  color: #fff;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 43px;
+  margin-left: 20px;
+}
+.userInfo {
+  color: #fff;
+}
